@@ -44,3 +44,7 @@ Summer's Ville has been returned.
 ----------------- All Available Books ----------------------
 Title: Will Jack, Author: 2021, ISBN: 102, Available: true
 Title: Summer's Ville, Author: 2020, ISBN: 101, Available: true
+
+## Contributions
+
+Contributions are welcome! If you have additional examples or improvements, feel free to fork this repository and submit a pull request.
